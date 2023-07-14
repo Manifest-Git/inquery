@@ -5,6 +5,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/inqueryio.svg?style=social&label=Follow%20%40inqueryio)](https://twitter.com/inqueryio)
 [![GitHub Repo stars](https://img.shields.io/github/stars/inqueryio/inquery?style=social)](https://github.com/inqueryio/inquery)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FManifest-Git%2Finquery.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FManifest-Git%2Finquery?ref=badge_shield)
 
 <h3>
     <a href="https://docs.inquery.io">Docs</a> |
@@ -115,3 +116,7 @@ Sign up for [Inquery Cloud](https://www.inquery.io/sign-up) early access and get
 ## Get In Touch
 Let us know your feedback or feature requests! You can submit a GitHub issue or contact us
 at [hey@inquery.io](mailto:hey@inquery.io).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FManifest-Git%2Finquery.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FManifest-Git%2Finquery?ref=badge_large)
